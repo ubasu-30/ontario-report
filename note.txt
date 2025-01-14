@@ -1,1 +1,2 @@
-We plotted temp and cell abundance
+We plotted temp and cell abundance.
+Each point represents a sample.
