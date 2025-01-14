@@ -1,2 +1,3 @@
 We plotted temp and cell abundance.
 Each point represents a sample.
+Environmnetal grps shown by color.
